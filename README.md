@@ -1,64 +1,25 @@
-- 👋 Hi, I’m @felipemororo
-- 👀 I’m interested in migrating to the developer area. I am currently studying mechanical engineering and as I identify with the programming area, I follow this line of knowledge and projects at the university.
-- 🌱 I’m currently learning the knowledge base in programming in order to reduce my learning curve in new stacks.
-- 💞️ I’m looking to collaborate on solving problems.
-- 📫 How to reach me: felipe_lmororo@hotmail.com
+## Bem-vindo(a) ao perfil do felipemororo 😁
 
-
-
-- Education:
-
-Bachelor's degree in Mechanical Engineering                                     (August 2017 to Present)
-
-Universidade Federal de Pernambuco - Recife, PE
-
-- Work Experience:
-
--> Robotics Mechatronics Team of UFPE (Federal University of Pernambuco - Recife, PE)
-
-Part of the Robotics Mechatronics Team of UFPE (Extension Project). Acting in Microcontrollers program of soccer robots category SSL (Small Size League).
-
--> Microcontroller Systems                                                          (August 2020 - August 2021)
-
-Scientist initiation on the digital area (Microcontroller Systems) lecture by Professor José Rodrigues de Oliveira Neto. The objective of the scientist initiation is the programming of FPGA (field-programmable gate array) using Matlab software. 
-
--> Volunteer Work on Our Lady of Boa Viagem Parish - Recife, PE
-
-Volunteer at the Youth Meeting at Our Lady of Boa Viagem Parish
-
-- Skills:
+ <div>
+  <a href="https://github.com/felipemororo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemororo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemororo&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
  
-MATLAB
+ <br>
+ 
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  <a href="https://instagram.com/felipemororo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipe_lmororo@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/felipe-mororo-4a0159175" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/felipemororo/felipemororo/blob/output/github-contribution-grid-snake.svg)
 
-C Programming Language
-
-Python Programming Language
-
-Microcontroller Systems (Arduino and STM32 - STM32CubeIDE)
-
-Green Belt – Six Sigma
-
-Black Belt – Six Sigma
-
-Minitab
-
-Mechanical Engineering
-
-Microsoft Office
-
-Microsoft Excel
-
-Power BI
-
-- Certifications and Licenses
-
-Creative Relearning Classes -> Professor Murilo Gun
-
-Management of Emotions Classes -> Professor Augusto Cury
-
-
-
-<!---
-felipemororo/felipemororo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
